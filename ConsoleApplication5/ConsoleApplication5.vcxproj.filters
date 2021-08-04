@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CSR2Triplet.cpp">
+    <ClCompile Include="CSR2Triplet.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CSR2Triplet.cpp" />
+    <ClCompile Include="CSR2Triplet.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="A.txt" />
